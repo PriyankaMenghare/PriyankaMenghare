@@ -1,4 +1,4 @@
-# Hi 👋, I'm Priyanka Ghawghawe
+# Hi, I'm Priyanka Ghawghawe
 
 #### Data Analyst & Scientist with 6+ years of experience turning complex data into business decisions. Former Senior Analyst at Accenture specialising in Power BI, Python, SQL, and ETL pipelines. Master's in Data Science & Engineering from BITS Pilani. Based in Amsterdam 🇳🇱, immediately available.
 
