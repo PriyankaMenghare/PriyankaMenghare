@@ -51,7 +51,7 @@ Former **Senior Analyst at Accenture** · Master's in Data Science & Engineering
 | Project | Description | Tech |
 |---|---|---|
 | [Household-Power-Consumption-LSTM](https://github.com/PriyankaMenghare/Household-Power-Consumption-LSTM) | Forecasts daily global active power using **LSTM** on UCI dataset | LSTM, MinMax Scaling |
-| [Airline-Passenger-Forecasting-GRU](https://github.com/PriyankaMenghare/Airline-Passenger-Forecasting-GRU) | Predicts monthly airline passengers using **GRU** on Box-Jenkins dataset | GRU, Keras |
+| [Airline-Passenger-Forecasting-GRU](https://github.com/PriyankaMenghare/Airline-Passenger-Forecasting-GRU) | Predicts monthly airline passengers using **GRU** on Airline dataset | GRU, Keras |
 
 ### 🧠 Machine Learning & Classification
 | Project | Description | Tech |
